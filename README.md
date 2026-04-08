@@ -12,10 +12,14 @@ e) Sedaj ADS1115 modul povežite z ustreznimi pini na STM32F0. Ne pozabite na up
 Katere pine ste izbrali?
 
 SCL -> SCL   
+
 SDA -> SDA
+
 ADDR -> GND
-ALRT -> ni povezan
-VDD -> 5 V ali 3.3 V
+
+ALRT -> ni povezan   
+
+VDD -> 5 V ali 3.3 V   
 
 
 f) V Parameter Settings protokola I2C spremenite Speed Mode na Fast. Koliko znaša sedaj frekvenca?
