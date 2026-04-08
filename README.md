@@ -39,6 +39,9 @@ zato je max. napetost ± __.____V.
 ±6.144V
 
 
+KOMENTAR:
+naloga je bila tezka, nisva jo dokoncala da bi stvar delovala, saj nisva mogla uklopiti SWV. box je bil siv kar je prepričevalo da bi lahko stvar prizgala.
+
 
 
 
