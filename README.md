@@ -1,0 +1,1 @@
+# Vaja-8-I-2C-povezava-z-ADS1115-16-bit-ADC-pretv.-ter-STM32F0-Discovery
